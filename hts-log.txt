@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 02 Mar 2021 05:01:52 at https://www.provtagning.com/certification-evaluation/wccV451obQOrLiGUsW20slsK8gpytrsP5PEPRm47dMY7XFEky2k4HckSq55J +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv +*.webp
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.provtagning.com/certification-evaluation/wccV451obQOrLiGUsW20slsK8gpytrsP5PEPRm47dMY7XFEky2k4HckSq55J -O1 "C:\My Web Sites\PCR2" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv +*.webp )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+05:01:53	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.provtagning.com/certification-evaluation/wccV451obQOrLiGUsW20slsK8gpytrsP5PEPRm47dMY7XFEky2k4HckSq55J)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 seconds : 5 links scanned, 3 files written (2196304 bytes overall), 1 files updated [5392 bytes received at 5392 bytes/sec], 2463 bytes transferred using HTTP compression in 1 files, ratio 51%, 1.6 requests per connection
+(1 errors, 0 warnings, 0 messages)
